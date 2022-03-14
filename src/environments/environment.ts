@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  // TechnicalTestITSenseApiUrl:'https://localhost:44344/api',
+  TechnicalTestITSenseApiUrl:'https://technicaltestitsenseapirest.azurewebsites.net/api',
+  
 };
 
 /*

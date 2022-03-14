@@ -29,8 +29,11 @@
             ],
             "styles": [
               "src/styles.scss"
+    
             ],
-            "scripts": []
+            "scripts": [
+              
+            ]
           },
           "configurations": {
             "production": {
@@ -123,6 +126,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TechnicalTestITSense"
+    }
+  },
+  "defaultProject": "TechnicalTestITSense",
+  "cli": {
+    "analytics": "b72dad24-e79b-4186-b9e1-432b33ca4fe3"
+  }
 }
